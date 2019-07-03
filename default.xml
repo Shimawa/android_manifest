@@ -738,8 +738,8 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- Arrow changes -->
+  <!-- Bruh changes -->
   <include name="remove.xml" />
-  <include name="arrow.xml" />
+  <include name="bruh.xml" />
 
 </manifest>

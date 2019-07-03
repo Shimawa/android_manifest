@@ -1,16 +1,15 @@
-<img src="https://github.com/ArrowOS/getting_started/blob/master/etc/logo.png?raw=true">
 
-# ArrowOS
+# BruhOS
 
  Getting Started
 ---------------
-To get started with the ArrowOS sources, you'll need to get
+To get started with the BruhOS sources, you'll need to get
 familiar with [Git and Repo](https://source.android.com/setup/build/downloading).
 
 To initialize your local repository, use command:
 
 ```bash
-    repo init -u https://github.com/ArrowOS/android_manifest.git -b arrow-9.x
+    repo init -u git://github.com/BruhOS/android_manifest.git -b pie
 ```
 
 Then sync up:
@@ -27,11 +26,3 @@ Building the System
      . build/envsetup.sh
      brunch device-codename
 
- Refer to our detailed guide on how to compile ArrowOS, as well
- as how to apply for official maintainership [**HERE**](https://blog.arrowos.net/)
-
----------------------------------------------------------------------------------------------------------------------
-
-To check maintainer criteria & thread template refer [**HERE**](https://github.com/ArrowOS/getting_started)
-
----------------------------------------------------------------------------------------------------------------------
